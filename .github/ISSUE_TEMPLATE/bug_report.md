@@ -20,3 +20,5 @@ assignees: ''
 
 **Minimal project**
 (If applicable, the smallest possible extension project that reproduces the bug. Or copy your code your code block if it is small.)
+
+**Other helpful information**

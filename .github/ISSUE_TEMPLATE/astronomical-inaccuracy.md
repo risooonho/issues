@@ -15,4 +15,4 @@ assignees: ''
 **Do you have other information that might be helpful?**
 
 **What is your level of expertise in this matter?**
-(Hey! I'm not trying to be insulting. I'm a biologist by profession. I may need to pick your brains if you are a dynamical systems expert!)
+(Hey! I'm not trying to insult you! I'm a biologist by profession. I may need to pick your brains if you are a dynamical systems expert.)
