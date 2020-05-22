@@ -3,4 +3,4 @@ Open an issue [here](https://github.com/ivoyager/ivoyager-bugs/issues) to report
 
 **Please don't post feature requests here!**
 
-But I do strongly encurage you to post feature requests, feedback, questions, or almost anything else (at least somewhat related to astronomy or game development) at our [Forum](https://ivoyager.dev/forum). Here is our [roadmap](https://ivoyager.dev/forum/index.php?p=/discussion/41/roadmap) so you can see what is already planned.
+But I do strongly encourage you to post feature requests, feedback, questions, or almost anything else (at least somewhat related to astronomy or game development) at our [Forum](https://ivoyager.dev/forum). Here is our [roadmap](https://ivoyager.dev/forum/index.php?p=/discussion/41/roadmap) so you can see what is already planned.
