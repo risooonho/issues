@@ -31,4 +31,4 @@ assignees: ''
 
 (If applicable, the smallest possible extension project that reproduces the bug. Or copy your code block if it is small.)
 
-**Other helpful information**
+**[Optional] Other helpful information**
