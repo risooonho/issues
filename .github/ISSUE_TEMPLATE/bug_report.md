@@ -8,8 +8,9 @@ assignees: ''
 ---
 
 **I, Voyager platform**
+<!--E.g., Planetarium using web browser, Project Template, etc.-->
 
-(E.g., Planetarium using web browser, Project Template, etc.)
+
 
 **I, Voyager version and (if applicable) Godot version**
 
@@ -28,7 +29,8 @@ assignees: ''
 
 
 **Minimal project**
+<!--If applicable, the smallest possible extension project that reproduces the bug. Or copy your code block if it is small.-->
 
-(If applicable, the smallest possible extension project that reproduces the bug. Or copy your code block if it is small.)
+
 
 **[Optional] Other helpful information**

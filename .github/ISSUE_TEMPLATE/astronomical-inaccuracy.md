@@ -12,13 +12,13 @@ assignees: ''
 
 
 **How is it supposed to be?**
+<!--Please provide references including links, if possible.-->
 
-(Please provide references including links, if possible.)
+
 
 **[Optional] Do you have other information that might be helpful?**
 
 
 
 **[Optional] What is your level of expertise in this matter?**
-
-(Hey! I'm not trying to insult you! I'm a biologist by profession. I may need to pick your brains if you are a dynamical systems expert.)
+<!--Hey! I'm not trying to insult you! I'm a biologist by profession. I may need to pick your brains if you are a dynamical systems expert.-->
